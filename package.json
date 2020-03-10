@@ -1,0 +1,13 @@
+{
+  "name": "simple-nodejs",
+  "version": "0.0.1",
+  "description": "simple web application",
+  "author": "David Medinets <david.medinets@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
